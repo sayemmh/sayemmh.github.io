@@ -98,4 +98,4 @@ exclude:
   - CNAME
 
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
