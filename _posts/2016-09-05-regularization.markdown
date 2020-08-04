@@ -6,7 +6,7 @@ excerpt: "Regularization seems fairly insignificant at first glance, but it has 
 date:   2016-09-05 11:00:00
 mathjax: true
 thumbnail: /assets/regularization/thumbnail.png
-author: Sam Greydanus
+author: Sayem Hoque
 ---
 
 <div class="imgcap_noborder">
