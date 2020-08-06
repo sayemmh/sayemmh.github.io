@@ -9,10 +9,10 @@ permalink: /aboutme/
 About me
 </h3>
 
-<p>I'm Sayem Hoque and I'm originally from Atlanta, and a graduate of Georgia Tech. I studied Computer Science and did research in the School of Mathematics for 3 years as an undergrad, working with numerical methods and unsupervised learning methods applied to biological images. Professionally, I've worked at a few startups, Amazon Music, and worked at Palantir Technologies from 2018 to 2020 building software for the US Federal Government. In 2020 I joined a non-profit, Hawkfish, which is helping downballot progressive candidates with their online voter outreach for the November 2020 elections in the US.
+<p> I'm Sayem Hoque and I'm originally from Atlanta, and a graduate of Georgia Tech. I studied Computer Science and did research in the School of Mathematics for 3 years as an undergrad, working with numerical methods and unsupervised learning methods applied to biological images. Professionally, I've worked at a few startups as an intern, Amazon Music, and at Palantir Technologies from 2018 building software for the US Federal Government. In 2020 during election season in the US, I joined a non-profit called Hawkfish which was funded by Mike Bloomberg to help House and Senate Democrats with their online voter outreach.
 </p>
 <p>
-My professional interests revolve around government and healthcare technology. I'm most interested in how modern technologies can improve the institutions on which people rely.
+My personal interests are staying active, trying new foods, exploring random places, and talking to strangers.
 </p>
 
 <h3>
